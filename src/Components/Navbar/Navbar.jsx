@@ -41,7 +41,7 @@ function Navbar() {
         fontWeight={700}
         fontSize={"2xl"}
         color={text}
-        // position={{ base: "none", lg: "absolute" }}
+        position={{ base: "none", lg: "absolute" }}
       >
         CodeX BD
       </Text>
