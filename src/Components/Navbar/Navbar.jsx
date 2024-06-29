@@ -75,13 +75,13 @@ function Navbar() {
         </ChakraLink>
         <ChakraLink
           as={NavLink}
-          to="/skills"
+          to="/members"
           exact="true"
           textDecoration="none"
           _hover={{ color: hoverColor }}
           _activeLink={{ color: activeColor }}
         >
-          Skills
+          Members
         </ChakraLink>
         <ChakraLink
           as={NavLink}

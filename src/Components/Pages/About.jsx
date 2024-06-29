@@ -37,7 +37,7 @@ function About() {
               lineHeight={2}
               textUnderlineOffset={"5px"}
             >
-              <li>👨‍💼 About Me</li>
+              <li>👨‍💼 About Us</li>
             </Text>
             Hello, I am Samir. I was born in 2011 19 July. My home district is
             Zazira Soriotpur. I was shifted to Dhaka with my hole family in
@@ -64,7 +64,7 @@ function About() {
               textUnderlineOffset={"5px"}
               textColor={"teal.300"}
             >
-              <li>&#x270E; Work</li>
+              <li>&#x270E; Services</li>
             </Text>
             My working started alone. From 2020 i started to work with my school
             friends. It have been passed a long time working with them. Then in

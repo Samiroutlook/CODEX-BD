@@ -3,6 +3,7 @@ import { Box, Flex, useColorModeValue, Text, Image } from "@chakra-ui/react";
 import { Stack, Button } from "@chakra-ui/react";
 import { IconButton } from "@chakra-ui/react";
 import { motion } from "framer-motion";
+import img from "/images/codexbd.png";
 
 function Home() {
   const transparent = useColorModeValue("transparent.502", "transparent.50");
@@ -24,7 +25,7 @@ function Home() {
             fontWeight={600}
             textAlign={"center"}
           >
-            Hello, I'm a Web-Developer from Bangladesh.
+            Hello, We are here for Give you all kind of services.
           </Box>
         </Flex>
         <Flex
@@ -34,12 +35,7 @@ function Home() {
           w={"full"}
           mt={4}
         >
-          <Image
-            src="./images/my.jpeg"
-            bg={"red"}
-            boxSize="200px"
-            borderRadius="full"
-          />
+          <Image src={img} bg={"red"} boxSize="200px" borderRadius="full" />
           <Text
             fontWeight={600}
             bg={transparent}
@@ -53,10 +49,11 @@ function Home() {
             CODEX BD
           </Text>
           <Text w={["95vw", "460px", "500px"]} textAlign={"center"} mt={4}>
-            Hi, I'm Samir! I'm a passionate web developer with 3 years of
-            experience, currently studying in Class VII. My journey in web
-            development has equipped me with a robust skill set in both frontend
-            and backend technologies.
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas
+            repudiandae, atque repellendus sit illum officiis mollitia pariatur
+            voluptate expedita numquam assumenda a. Illum numquam vitae nemo
+            illo, adipisci dolorum ratione iste exercitationem eaque facilis
+            inventore!
           </Text>
         </Flex>
         <Stack
