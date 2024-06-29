@@ -49,11 +49,10 @@ function Home() {
             CODEX BD
           </Text>
           <Text w={["95vw", "460px", "500px"]} textAlign={"center"} mt={4}>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas
-            repudiandae, atque repellendus sit illum officiis mollitia pariatur
-            voluptate expedita numquam assumenda a. Illum numquam vitae nemo
-            illo, adipisci dolorum ratione iste exercitationem eaque facilis
-            inventore!
+            Hello, we have experienced Programmer, Web-Developer, Graphic
+            Designer, Video Editor, Office expert. We are from Bangladesh
+            Government Laboratory High School. Our best members are Samir and
+            Rafi with over 3+ years of experience.
           </Text>
         </Flex>
         <Stack

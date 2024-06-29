@@ -10,6 +10,7 @@ import {
 } from "@chakra-ui/react";
 import { motion } from "framer-motion";
 import samir from "/images/my.jpeg"; // Importing the image
+import rafi from "/images/Rafi.jpeg"; // Importing the image
 
 function Members() {
   const bgColor = useColorModeValue("white", "gray.800");
@@ -29,6 +30,7 @@ function Members() {
       role: "MS Office Specialist",
       description:
         "MS Office and data entry specialist with over 4+ years of experience.",
+      image: rafi,
     },
     {
       name: "Roshan",

@@ -39,12 +39,14 @@ function About() {
             >
               <li>👨‍💼 About Us</li>
             </Text>
-            Hello, I am Samir. I was born in 2011 19 July. My home district is
-            Zazira Soriotpur. I was shifted to Dhaka with my hole family in
-            2016. The journey of Web-Development was started at 2018. Currently
-            I'm studying in class VII at Government Laboratory High School. I
-            <span color="red"> &#x2764;</span> to listen Music, Programming,
-            Bike-Riding 🏍️.
+            We are here to help you with any kind of services. Our journey has
+            been started from 2023. We are fully confident about our members and
+            our skills. Each of our members have good experience of there own
+            skills. We want to represent our country with{" "}
+            <Text display={"inline-block"} color="blue.300">
+              Codex BD
+            </Text>
+            .
           </Box>
           <Box
             fontSize={["sm", "sm", "lg"]}
@@ -66,14 +68,14 @@ function About() {
             >
               <li>&#x270E; Services</li>
             </Text>
-            My working started alone. From 2020 i started to work with my school
-            friends. It have been passed a long time working with them. Then in
-            2023 we started a youtube channel{" "}
+            We have worked as the teachers in our schools IT Club 🖥️. From 2020
+            we started to work with some of our school friends. It have been
+            passed a long time working with them. Then in 2023 we started the
+            youtube channel{" "}
             <Text display={"inline-block"} color="blue.300">
               Codex BD
             </Text>
-            . After that i joined my school ITC club 🖥️ with my friends and
-            seniors. Now i am finding a part-time online job.
+            .
           </Box>
           <Box
             fontSize={["sm", "sm", "lg"]}
@@ -96,11 +98,9 @@ function About() {
             >
               <li>&#x270D; Education</li>
             </Text>
-            My first school was Little Angles School. When i was only in class
-            'I' i shifted to my current school 🏢 Government Laboratory High
-            School. I want to get admitted in Buet or Notrdem collage for
-            feature. I learned Web-Development from only Youtube. I learn too
-            much from it. I want to be a Full-Stack Web-Developer in future.
+            Every members of our channel reads in class VII. We are studying
+            together from 2018 to now it will be continued. We all are intrusted
+            in computer skills 🖥️.
           </Box>
         </Flex>
       </Box>
