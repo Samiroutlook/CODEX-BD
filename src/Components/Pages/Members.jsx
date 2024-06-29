@@ -66,6 +66,7 @@ function Members() {
           w="full"
           maxW="1500px"
           px={4}
+          justifyItems="center" // Center the items horizontally within the grid
         >
           {members.map((member, idx) => (
             <Box
@@ -76,11 +77,12 @@ function Members() {
               borderRadius="lg"
               bgColor={bgColor}
               textAlign="center"
-              mx="auto"
               w="full"
               maxW={{ base: "full", md: "350px", lg: "400px" }}
               h="420px"
               maxH="full"
+              mt={6} // Add margin-top
+              mb={6} // Add margin-bottom
               transition="transform 0.2s"
               _hover={{ transform: "scale(1.05)" }}
             >
